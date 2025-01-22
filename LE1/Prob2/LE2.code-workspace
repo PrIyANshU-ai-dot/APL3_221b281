@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../LE2"
+		},
+		{
+			"path": "../../LE2/Prob2"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
